@@ -1,0 +1,15 @@
+C:\Users\Invitado\Desktop\Primer Semestre\PC-09-2024\PensamientoComputacional\Seccion17\1307224\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.exe
+C:\Users\Invitado\Desktop\Primer Semestre\PC-09-2024\PensamientoComputacional\Seccion17\1307224\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.deps.json
+C:\Users\Invitado\Desktop\Primer Semestre\PC-09-2024\PensamientoComputacional\Seccion17\1307224\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.runtimeconfig.json
+C:\Users\Invitado\Desktop\Primer Semestre\PC-09-2024\PensamientoComputacional\Seccion17\1307224\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.dll
+C:\Users\Invitado\Desktop\Primer Semestre\PC-09-2024\PensamientoComputacional\Seccion17\1307224\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.pdb
+C:\Users\Invitado\Desktop\Primer Semestre\PC-09-2024\PensamientoComputacional\Seccion17\1307224\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Invitado\Desktop\Primer Semestre\PC-09-2024\PensamientoComputacional\Seccion17\1307224\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\Invitado\Desktop\Primer Semestre\PC-09-2024\PensamientoComputacional\Seccion17\1307224\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.AssemblyInfo.cs
+C:\Users\Invitado\Desktop\Primer Semestre\PC-09-2024\PensamientoComputacional\Seccion17\1307224\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Invitado\Desktop\Primer Semestre\PC-09-2024\PensamientoComputacional\Seccion17\1307224\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.sourcelink.json
+C:\Users\Invitado\Desktop\Primer Semestre\PC-09-2024\PensamientoComputacional\Seccion17\1307224\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.dll
+C:\Users\Invitado\Desktop\Primer Semestre\PC-09-2024\PensamientoComputacional\Seccion17\1307224\PrimerProyecto\obj\Debug\net8.0\refint\PrimerProyecto.dll
+C:\Users\Invitado\Desktop\Primer Semestre\PC-09-2024\PensamientoComputacional\Seccion17\1307224\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.pdb
+C:\Users\Invitado\Desktop\Primer Semestre\PC-09-2024\PensamientoComputacional\Seccion17\1307224\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.genruntimeconfig.cache
+C:\Users\Invitado\Desktop\Primer Semestre\PC-09-2024\PensamientoComputacional\Seccion17\1307224\PrimerProyecto\obj\Debug\net8.0\ref\PrimerProyecto.dll

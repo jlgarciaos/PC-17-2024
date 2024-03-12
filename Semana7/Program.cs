@@ -5,11 +5,14 @@ public class EquivalenciaBilletesMonedas
     public static void Main(string[] args)
     {
         // Mostrar nombre y número de carné
-        Console.WriteLine("Nombre:");
-        Console.WriteLine("Número de carné:");
+        Console.WriteLine("Ingrese su nombre: ");
+        string nombre = Console.ReadLine();
+
+        Console.WriteLine("Ingrese su número de carné: ");
+        string carnet = Console.ReadLine();
 
         // Solicitar la cantidad al usuario
-        Console.Write("Ingrese la cantidad en quetzales: ");
+        Console.Write($"Hola, {nombre} con carné {carnet}. Ingrese la cantidad en quetzales: ");
         double cantidad = double.Parse(Console.ReadLine());
 
         // Validar la cantidad

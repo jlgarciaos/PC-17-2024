@@ -1,0 +1,14 @@
+C:\Users\Invitado\Desktop\proyecto2\bin\Debug\net8.0\proyecto2.exe
+C:\Users\Invitado\Desktop\proyecto2\bin\Debug\net8.0\proyecto2.deps.json
+C:\Users\Invitado\Desktop\proyecto2\bin\Debug\net8.0\proyecto2.runtimeconfig.json
+C:\Users\Invitado\Desktop\proyecto2\bin\Debug\net8.0\proyecto2.dll
+C:\Users\Invitado\Desktop\proyecto2\bin\Debug\net8.0\proyecto2.pdb
+C:\Users\Invitado\Desktop\proyecto2\obj\Debug\net8.0\proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Invitado\Desktop\proyecto2\obj\Debug\net8.0\proyecto2.AssemblyInfoInputs.cache
+C:\Users\Invitado\Desktop\proyecto2\obj\Debug\net8.0\proyecto2.AssemblyInfo.cs
+C:\Users\Invitado\Desktop\proyecto2\obj\Debug\net8.0\proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Invitado\Desktop\proyecto2\obj\Debug\net8.0\proyecto2.dll
+C:\Users\Invitado\Desktop\proyecto2\obj\Debug\net8.0\refint\proyecto2.dll
+C:\Users\Invitado\Desktop\proyecto2\obj\Debug\net8.0\proyecto2.pdb
+C:\Users\Invitado\Desktop\proyecto2\obj\Debug\net8.0\proyecto2.genruntimeconfig.cache
+C:\Users\Invitado\Desktop\proyecto2\obj\Debug\net8.0\ref\proyecto2.dll
